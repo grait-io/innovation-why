@@ -1,0 +1,2 @@
+name = "innovation-why" # Replace with your desired project name
+pages_build_output_dir = "."
